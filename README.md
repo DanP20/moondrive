@@ -75,8 +75,3 @@ down feels like falling.
 ## Credits
 
 Game by Dan Parry. Music: "Evening Discovery", made with [Suno](https://suno.com).
-
-## Copyright
-
-© 2026 Dan Parry. All rights reserved. The game's source code is private; this repository holds only its
-description and screenshots, which may not be reused without permission.
