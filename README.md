@@ -2,7 +2,7 @@
 
 **A one-button multiplayer long-drive game on the Moon.** An astronaut tees off a tin can, and everyone on the
 same link watches it fly, bounce off solar panels, ride gas vents and (with luck) roll for kilometres.
-Each room gets a fresh course every day and a leaderboard that resets at midnight UTC.
+Each room gets a fresh course every day and a leaderboard that resets at 21:00 UTC.
 
 **Play it: [moondrive.onrender.com](https://moondrive.onrender.com)** (free hosting, so the first visit after a
 quiet spell can take half a minute to wake up)
